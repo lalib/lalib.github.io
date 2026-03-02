@@ -1,0 +1,12 @@
+title: Bilal Alp
+description: Personal blog
+url: "https://bilalalp.com"
+baseurl: ""
+
+theme: minima
+
+permalink: /:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
